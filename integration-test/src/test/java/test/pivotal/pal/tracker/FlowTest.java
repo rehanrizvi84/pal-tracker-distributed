@@ -7,6 +7,7 @@ import io.pivotal.pal.tracker.testsupport.TestScenarioSupport;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
 import test.pivotal.pal.tracker.support.ApplicationServer;
 import test.pivotal.pal.tracker.support.HttpClient;
 
