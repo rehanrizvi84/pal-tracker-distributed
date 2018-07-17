@@ -27,6 +27,7 @@ public class App {
         System.out.println("hello");
     }
 
+
     @Bean
     ProjectClient projectClient(
         RestOperations restOperations,
